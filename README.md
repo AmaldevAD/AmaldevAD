@@ -71,6 +71,9 @@ A mobile app providing private support for individuals living with HIV. Features
 
 ---
 
+## 📊 **Most Used Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaldevAD&theme=dark&layout=compact)
+
 ## 📫 **Contact Me**
 📧 amaldev.amv@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/amaldevad/)  
