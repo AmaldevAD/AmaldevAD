@@ -7,6 +7,7 @@
 ---
 
 ## 🏆 **Achievements**
+- **MVP 2024** at SOTI.
 - **MVP Nominee**: 2022, 2023, 2024 at SOTI.
 - **Architect Team Member**: Expertise in design, security, and compliance reviews.
 - **Mentor & Team Leader**: Efficient onboarding and leadership for new team members.
